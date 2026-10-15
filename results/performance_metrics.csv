@@ -1,0 +1,13 @@
+Metric,Value
+Sampling rate (Hz),44100.0
+Duration (s),5.0
+Number of samples,220500.0
+Bass gain (dB),6.0
+Midrange gain (dB),0.0
+Treble gain (dB),-3.0
+Input RMS amplitude,0.29872123768202896
+Output RMS amplitude,0.41602576587333623
+Input peak amplitude,0.85
+Output peak amplitude,1.0
+Input crest factor,2.845462232935626
+Output crest factor,2.403697275578026
